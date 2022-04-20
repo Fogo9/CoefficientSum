@@ -41,7 +41,7 @@
 
                 do {
 
-                    System.out.print("Bir sayı gir : ");
+                    System.out.print("Enter a number : ");
 
                     a = input.nextInt();
 
@@ -59,11 +59,11 @@
 
 ```bash
 
-        Bir sayı gir : 24
-        Bir sayı gir : 16
-        Bir sayı gir : 20
-        Bir sayı gir : 84
-        Bir sayı gir : 37
+        Enter a number : 24
+        Enter a number : 16
+        Enter a number : 20
+        Enter a number : 84
+        Enter a number : 37
         Total : 144
 
 ```
