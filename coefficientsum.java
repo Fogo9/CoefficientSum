@@ -10,7 +10,7 @@ public class coefficientsum{
 
             do {
 
-                System.out.print("Bir sayı gir : ");
+                System.out.print("Enter a number : ");
 
                 a = input.nextInt();
 
