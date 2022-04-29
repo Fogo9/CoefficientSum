@@ -18,8 +18,6 @@
 
 * The remaining module is used for the multiples of 4 of the entered number value and the sum of even numbers.
 
-<br />
-
 ## CODES
 
 ```Java
