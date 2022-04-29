@@ -1,14 +1,14 @@
 # **COEFFICIENT SUM**
 
-# Information
+## INFORMATION
 
 * **Program that generates the sum of even numbers and the sum of multiples of 4.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * A and total variables are defined with int.
 
@@ -20,7 +20,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -70,13 +70,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/CoefficientSum.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
